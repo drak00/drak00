@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats-cjb7q1lhe-drak00s-projects.vercel.app/api/?username=drak00&count_private=true&show_icons=true&hide=contribs&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-red-rho.vercel.app/api/?username=drak00&count_private=true&show_icons=true&hide=contribs&theme=codeSTACKr)](https://github.com/drak00/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-cjb7q1lhe-drak00s-projects.vercel.app/api/top-langs/?username=drak00&count_private=true&show_icons=true&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-red-rho.vercel.app/api/top-langs/?username=drak00&count_private=true&show_icons=true&theme=dark&layout=compact)](https://github.com/drak00/github-readme-stats)
