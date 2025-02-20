@@ -1,6 +1,6 @@
 ### Hello world 👋👋
 
-🔭 I’m currently working on Automation/Artificial Intelligence
+🔭 I’m currently working on Automation/Artificial Intelligence 🦾
 
 <!--
 **drak00/drak00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats-red-rho.vercel.app/api/?username=drak00&count_private=true&show_icons=true&hide=contribs&theme=midnight-purple)](https://github.com/drak00/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-red-rho.vercel.app/api/?username=drak00&count_private=true&show_icons=true&hide=contribs&theme=midnight-purple&rank_icon=percentile)](https://github.com/drak00/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-red-rho.vercel.app/api/top-langs/?username=drak00&count_private=true&show_icons=true&theme=midnight-purple&layout=donut)](https://github.com/drak00/github-readme-stats)
